@@ -61,5 +61,6 @@ print("\n\nPLOT 3")
 
 
 
+
 #df.to_csv('C:/Users/ferzh/Desktop/DM/data_mining_1904204/csv/Incidentes_viales_cdmx_limpio.csv', encoding = 'latin1', index=False)
 print("\n\nDONE")

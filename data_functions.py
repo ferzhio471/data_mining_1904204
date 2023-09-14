@@ -1,5 +1,12 @@
 import pandas as pd
 
+"""
+OBTENER DATAFRAME DESDE URL
+
+df = get_csv_from_url("URL")
+print_tabulate(df)
+df.to_csv("ruta", index=False)"""
+
 #DATA IMPORTING FROM CSV
 
 df = pd.read_csv('C:/Users/ferzh/Desktop/DM/data_mining_1904204/csv/incidentes-viales-2019.csv', encoding = 'utf-8')
